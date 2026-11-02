@@ -1,0 +1,6 @@
+{
+  "name": "The Luxuria Lounge – Luxury Beauty Salon Siwan",
+  "description": "Upscale beauty salon in Siwan, Bihar offering professional hair styling, bridal makeup, facial, spa and nail transformations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
